@@ -41,8 +41,6 @@ Personnaly I adapted the chassis to fix a second wifi Antenna (better WIFI Perfo
 | Audio  | Realtek  |
 | SMBIOS | MacMini 8,1 |
 
-![Alt text](About.png?raw=true "About This Mac")
-
 
 # Credit
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Hackintoshlifeit EFI for Dell 3060MFF.
